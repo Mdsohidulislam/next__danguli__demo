@@ -5,6 +5,7 @@ const index = () => {
     <div>
       <h1>Hello world</h1>
       <h1>Gello world</h1>
+      <img alt='/azure' src='/one.png'></img>
     </div>
   );
 };
